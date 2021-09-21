@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Lena Berdysheva](https://up.htmlacademy.ru/htmlcss/32/user/600171).
-* Наставник: `Неизвестно`.
+* Наставник: `Katya Nikitina`.
 
 ---
 
