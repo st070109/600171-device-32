@@ -1,6 +1,6 @@
 # Личный проект «Девайс»
 
-* Студент: [Lena Berdysheva](https://up.htmlacademy.ru/htmlcss/32/user/600171).
+* Студент: [Григорьев Антон](https://up.htmlacademy.ru/htmlcss/32/user/600171).
 <<<<<<< HEAD
 * Наставник: [Ekaterina Nikitina](https://htmlacademy.ru/profile/id489027).
 =======
